@@ -14,6 +14,6 @@ public class App {
         //Ejercicio9.EcuacionSegundoGrado();
         //Ejercicio11.SegundosMedianoche();
         //Ejercicio13.NumeroMayor();
-        Ejercicio17.UltimoNumero();
+        //Ejercicio17.UltimoNumero();
     }
 }
