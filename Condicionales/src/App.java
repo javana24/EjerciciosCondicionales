@@ -5,6 +5,7 @@ import Ejercicio3.Ejercicio3;
 import Ejercicio5.Ejercicio5;
 import Ejercicio6.Ejercicio6;
 import Ejercicio9.Ejercicio9;
+import Ejercicio22.Ejercicio22;
 
 public class App {
     public static void main(String[] args) throws Exception {
@@ -15,5 +16,6 @@ public class App {
         //Ejercicio11.SegundosMedianoche();
         //Ejercicio13.NumeroMayor();
         //Ejercicio17.UltimoNumero();
+        Ejercicio22.minutosHastaFinDeSemana();
     }
 }
